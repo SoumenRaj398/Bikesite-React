@@ -1,0 +1,16 @@
+.bike-info{
+    width: 350px;
+    height: 420px;
+    font-size: 22px;
+    font-weight:bold;
+    color: aliceblue;
+    line-height: 20px;
+    border: 1px solid red;
+    background-color: peru;
+    padding-bottom: 20px;
+    
+}
+.bike-info img{
+    width: 300px;
+    height:300px;
+}
